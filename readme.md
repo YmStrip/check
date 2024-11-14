@@ -1,69 +1,32 @@
-### DIFF
-$\mathbb{L}:=y=kx+b$
+### __upd.v4__
 
-$\mathbb{F}:=y=\frac{k}{x}+b$
+Fy mapped curvature distance
 
-$\mathbb{P}:=y=x^k+b$
+$\left<x_0,x_1\right>=\vert\kappa(F_0)-\kappa(F_1)\vert$
 
-$\mathbb{E}:=y=k^x+b$
+Fy mapped $\Delta p$
 
-### DIFFER
+initial
 
-$rx=\sum F$
+$\Delta=\nabla L$
 
-$ry=\prod F$
+L1: C
 
-$Y=R(X,W)=\sigma^k([(x|z)(X,W)]$)
+$\Delta=\nabla (L+\frac{\left<x_0,x_1\right>}{a})$
 
-$\Delta=[\nabla E_i(R-Y)]$ linear k
+Diff-Differ
 
-$\Delta=[(R-Y)]$ hard k
+$Link:=\\{D_i\Leftrightarrow D_j,D_i \leftrightarrow D_j\\}$
 
-$\Delta=[\nabla E_i(cos(R)-cos(Y))]$ hard cross
+L2: cruve diff
 
-$\Delta=[\nabla gE_i(cos(R)^h-cos(Y)^h)]$ hard scale cross
+$\Delta=\nabla (L+\frac{\left<x_0,x_1\right>}{a}+\frac{\left<D_i,D_j\right>}{b})$
 
-$\Delta=[Diff_{differ}(R,Y)^{(n)})]$ public constructer
+more L ...
 
-...
+Lf: SelfDiffer
+
+todo.
 
 
-### RIFF
-$D:$
-
-$\alpha:=\textup{float32}[0,1]$ EDF
-
-$m:=\textup{bool}[0,1]$ MASK
-
-$s:=\textup{float32}[0,1]$ SCALE RADIUS
-
-$V=XYZ$
-
-$d=e+k$
-
-$c=\frac{\sqrt{2}}{2}ql$
-
-$R_{top}(M)=\frac{1}{p}D_m(M,\frac{\sqrt[3]{V}+|\sqrt[3]{V}+2o|}{2c})\in[0,1]$
-
-### DIFFER
-
-$R=$
-
-LB $A+B-1$
-
-LL $A+2B-1$
-
-O $A-\frac{(1-A)(1-B)}{B}$
-
-...
-
-### DUMP
-
-$Y'=[K^{n_i}(Y)]^{(n)}$
-
-rts = 7
-
-its = ?
-
-min current ITP ~ 14
 
