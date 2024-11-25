@@ -1,32 +1,71 @@
-### __upd.v4__
+### update.142 fix errors 
 
-Fy mapped curvature distance
 
-$\left<x_0,x_1\right>=\vert\kappa(F_0)-\kappa(F_1)\vert$
 
-Fy mapped $\Delta p$
+ref($P$ ~ $p$)
 
-initial
+- repeat
 
-$\Delta=\nabla L$
+$p=p+\nabla p$
 
-L1: C
+$p=P+\nabla P$
 
-$\Delta=\nabla (L+\frac{\left<x_0,x_1\right>}{a})$
+- repeat
 
-Diff-Differ
+$\left<p\right>$
 
-$Link:=\\{D_i\Leftrightarrow D_j,D_i \leftrightarrow D_j\\}$
+- repeat
 
-L2: cruve diff
+$D \Leftrightarrow D$
 
-$\Delta=\nabla (L+\frac{\left<x_0,x_1\right>}{a}+\frac{\left<D_i,D_j\right>}{b})$
+$D \leftrightarrow D$
 
-more L ...
+$m=m+\theta(r)$
 
-Lf: SelfDiffer
+- repeat
 
-todo.
+$f^{n}_1=f^{1}_n$
+- repeat
+
+$c>>c'$
+
+$c'>>c$
+
+- repeat
+
+$\nabla ={dy}/{dx}$
+
+$\nabla=dy \textup{ mod } dx$
+
+$\nabla=dxdy$
+
+$\nabla=dx+dy$
+
+$\nabla=dx-dy$
+
+$\nabla=dict[dx]$
+
+//clamp
+
+$\nabla=bool(dx,dy)$
+
+$\nabla=scroll(dx)$
+
+- todo
+
+typeof ~ checking
+
+op
+
+$\nabla_i+p^{i+1}=\nabla_{i+1}$
+
+
+$\nabla_i=\nabla_{i+1}-p^{i+1}$
+
+
+
+
+
 
 
 
