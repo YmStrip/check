@@ -1,14 +1,21 @@
 ### update.143 RL 
 
-$R(x)\le L(x)$
+$$L(x)=L(\sum\limits_{i=0}^{\infty}2_2^{-i}X_i)=L^B(X)=1$$
 
-$a\otimes b=c$
+$$R(x)\le L(x)$$
 
-$R(a)\oplus R(b) = R(c)$
+$$a\otimes b=c$$
 
-$L(\sum\limits_{i=0}^{\infty}2_2^{-i}X_i)=L^B(X)=1$
+$$\textup{todo::case}$$
 
-K::Constructor
+$$\begin{cases}
+L(a)=L(b)=L(c)\\ 
+L(a)\not=L(b)\not=L(c)\\
+\end{cases}$$
 
-$\oplus=\otimes'=\frac{d}{dx}\otimes$
+$$\textup{Kemo::Constructor}$$
+
+$$R(a)\oplus R(b) = R(c)$$
+
+$$\oplus=\otimes'=\frac{d}{dx}\otimes$$
 
