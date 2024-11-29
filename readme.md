@@ -6,6 +6,8 @@ $$R(x)\le L(x)$$
 
 $$a\otimes b=c$$
 
+$$R(a)\oplus R(b) = R(c)$$
+
 $$\textup{todo::case}$$
 
 $$\begin{cases}
@@ -14,8 +16,6 @@ L(a)\not=L(b)\not=L(c)\\
 \end{cases}$$
 
 $$\textup{Kemo::Constructor}$$
-
-$$R(a)\oplus R(b) = R(c)$$
 
 $$\oplus=\otimes'=\frac{d}{dx}\otimes$$
 
