@@ -4,7 +4,7 @@ $R(x)\le L(x)$
 
 $a\otimes b=c$
 
-$R(a)\oplus R(B) = R(c)$
+$R(a)\oplus R(b) = R(c)$
 
 $L(\sum\limits_{i=0}^{\infty}2_2^{-i}X_i)=L^B(X)=1$
 
