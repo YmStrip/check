@@ -8,27 +8,26 @@ $$a\otimes b=c$$
 
 $$R(a)\oplus R(b) = R(c)$$
 
-$$\textup{todo::case}$$
 
-$$\begin{cases}
-L(a)=L(b)=L(c)\\ 
-L(a)\not=L(b)\not=L(c)\\
-\end{cases}$$
+$$\textup{constructor::kemo}$$
 
-$$\textup{Kemo::Constructor}$$
+$$\textup{K:}\oplus=\otimes'$$
 
-$$\oplus=\otimes'=\frac{d}{dx}\otimes$$
+$$\textup{K:clamp}\oplus=\otimes'\delta_k(\otimes)$$
 
-$$\textup{def::limit}$$
+$$\textup{todo::RL::base}$$
 
-$$\otimes:\lim R(x)\rightarrow 0$$
+$$\otimes(add)|a+b$$
 
-$$\otimes:\lim R(x)\rightarrow 1$$
+$$\otimes(mul)|a*b$$
 
-$$\textup{def::matrix}$$
+$$\otimes(div)|a/b$$
 
-$$L^1(x)=1$$
+$$\otimes(pow)|a^b$$
 
-$$L^k(x)=k$$
+$$\textup{todo::RL::wrapper}$$
+
+$$\otimes(cond)|sigmoid(a,b)=\lim_{k\rightarrow \infty}\frac{1}{1+e^{-k(x-a)}}\cdot\frac{1}{1+e^{k(x-b)}}$$
+
 
 
