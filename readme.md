@@ -1,6 +1,6 @@
-### update.143 RL 
+### update.144 RL 
 
-$$L(x)=L(\sum\limits_{i=0}^{\infty}2_2^{-i}X_i)=B(X)=1$$
+$$L(x)=B(X)=1$$
 
 $$R(x)\le L(x)$$
 
@@ -11,23 +11,14 @@ $$R(a)\oplus R(b) = R(c)$$
 
 $$\textup{constructor::kemo}$$
 
-$$\textup{K:}\oplus=\otimes'$$
+$$\oplus=\otimes'$$
 
-$$\textup{K:clamp}\oplus=\otimes'\delta_k(\otimes)$$
+$$\oplus=\otimes'\delta_k(\otimes)$$
 
-$$\textup{todo::RL::base}$$
 
-$$\otimes(add)|a+b$$
+$$\textup{todo::kemo::k}$$
 
-$$\otimes(mul)|a*b$$
-
-$$\otimes(div)|a/b$$
-
-$$\otimes(pow)|a^b$$
-
-$$\textup{todo::RL::wrapper}$$
-
-$$\otimes(cond)|sigmoid(a,b)=\lim_{k\rightarrow \infty}\frac{1}{1+e^{-k(x-a)}}\cdot\frac{1}{1+e^{k(x-b)}}$$
+$$\otimes_k|R^{-1}(\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{x-\mu}{2\sigma^2}})\rightarrow R^{-1}(\frac{1}{K}\sum_{i=1}^{K}\delta_{p}(x-x_i))$$
 
 
 
