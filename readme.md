@@ -3,7 +3,7 @@
 $$\textup{constructor::kemo::d}$$
 
 $$\begin{array}{ccc}
-...&\rightarrow\hbar & \xrightarrow{} &\nabla\Re&\rightarrow & \nabla\hbar&\rightarrow&...\\
+\sim &\rightarrow\hbar & \xrightarrow{} &\nabla\Re&\rightarrow & \nabla\hbar&\rightarrow&\sim\\
 &&\searrow&\uparrow\\
-&&&\hbar&\rightarrow&...\\
+&&&\hbar&\rightarrow&\sim\\
 \end{array}$$
