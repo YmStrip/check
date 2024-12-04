@@ -1,5 +1,4 @@
-### update.146 P
-### upd.147.P.RL
+### update.148.AD and AP
 $$\textup{constructor::kemo::d}$$
 
 $$\begin{array}{ccc}
@@ -7,3 +6,9 @@ $$\begin{array}{ccc}
 &&\searrow&\uparrow\\
 &&&\hbar&\rightarrow&\sim\\
 \end{array}$$
+
+$$\textup{idea::ap::E}$$
+
+$$S(x)\leftrightarrow S(x)$$
+
+$$\Delta E\sim \Delta E$$
