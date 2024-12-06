@@ -1,11 +1,15 @@
-### update.150 AP
+### update.150 AC
 
-$$\textup{constructor::kemo::ap}$$
+$$\textup{constructor::acas}$$
 
-$$\psi_+=\Delta,\psi_-=\nabla$$
+$$\textup{ac}$$
 
-$$\downarrow \ket{\psi_+}=\uparrow \ket{\psi_-} $$
+$$\Re_{ac}=\sum \Delta\ket{\psi^{((n))}}=0$$
 
-$$\textup{constructor::kemo::at}$$
+$$\textup{as}$$
 
-$$\bra{\phi_+}\ket{\psi_-}+\bra{\phi_-}\ket{\psi_+}=0$$
+$$\Re_{as}=\sum\limits_{i} \ket{\psi^{((i))}}-\ket{\psi^{((i-1))}}=0$$
+
+$$\textup{}$$
+
+$$\Re_{ac}=\Re_{as}$$
