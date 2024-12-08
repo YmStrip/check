@@ -1,15 +1,31 @@
-### update.150 AC
+### update.151 Lambda
 
-$$\textup{constructor::acas}$$
+$$\oplus_{~\kappa}(X)(x)=\sum\limits_{i=0}^n[A_ix^i\cdot W(X)]$$
 
-$$\textup{ac}$$
+$$ \Lambda=\begin{bmatrix}
+\psi\\
+\phi
+\end{bmatrix}*\in \textup{kemo}\left\\{\begin{bmatrix}
+\phi\\
+\psi
+\end{bmatrix}
+\oplus
+\begin{bmatrix}
+\psi\\
+\phi
+\end{bmatrix}=\begin{bmatrix}
+\phi\\
+\psi
+\end{bmatrix}|\psi\in\kappa,\phi\in\kappa\right\\}$$
 
-$$\Re_{ac}=\sum \Delta\ket{\psi^{((n))}}=0$$
+$$|\psi|^+=\sum\limits_{i}\psi_i$$
 
-$$\textup{as}$$
+$$
+\prod\Lambda_i=\Lambda_t
+$$
 
-$$\Re_{as}=\sum\limits_{i} \ket{\psi^{((i))}}-\ket{\psi^{((i-1))}}=0$$
-
-$$\textup{}$$
-
-$$\Re_{ac}=\Re_{as}$$
+$$
+\Delta=\vert\Lambda\Lambda^-\vert-\vert\Lambda\vert
+$$
+$$\textup{constructor::kemo}$$
+$$C:\sum\limits_{i}^n\Delta_i=\sum|\Lambda\Lambda^-|-|\Lambda|=0$$
